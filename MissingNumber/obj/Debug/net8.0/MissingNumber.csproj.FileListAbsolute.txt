@@ -1,0 +1,14 @@
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\bin\Debug\net8.0\MissingNumber.exe
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\bin\Debug\net8.0\MissingNumber.deps.json
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\bin\Debug\net8.0\MissingNumber.runtimeconfig.json
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\bin\Debug\net8.0\MissingNumber.dll
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\bin\Debug\net8.0\MissingNumber.pdb
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.AssemblyInfoInputs.cache
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.AssemblyInfo.cs
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.dll
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\refint\MissingNumber.dll
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.pdb
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\MissingNumber.genruntimeconfig.cache
+C:\Users\Haileyg\source\repos\MissingNumber\MissingNumber\obj\Debug\net8.0\ref\MissingNumber.dll
