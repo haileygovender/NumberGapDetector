@@ -1,4 +1,3 @@
----
 
 ````markdown
 # MissingNumberFinder
@@ -77,4 +76,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Hailey Jade Govender
 
----
+
