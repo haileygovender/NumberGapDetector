@@ -2,7 +2,7 @@
 
 ## 📄 **README.md Content**
 
-Here's a clean, beginner-friendly `README.md` for your repo:
+## Here's a clean, beginner-friendly `README.md` for your repo:
 
 ````markdown
 # MissingNumberFinder
